@@ -1,6 +1,6 @@
 # Pandoro-WebApp
 
-**v1.1.3**
+**v1.2.0**
 
 This project, based on Java and the Spring Boot framework, is an open source self-hosted management software useful in managing your personal projects and group projects.
 Create, develop and publish your projects with **Pandoro**!
@@ -22,14 +22,14 @@ If you are trying to connect to a backend with self-signed certificates, you nee
 ### Clients
 
 - [Android](https://play.google.com/store/apps/details?id=com.tecknobit.pandoro)
-- [Pandoro desktop version](https://github.com/N7ghtm4r3/Pandoro-Clients/releases/tag/1.1.3)
+- [Pandoro desktop version](https://github.com/N7ghtm4r3/Pandoro-Clients/releases/tag/1.2.0)
 - iOS -> source code available, but cannot distribute due
   missing [Apple Developer Program license](https://developer.apple.com/programs/)
 - [Pandoro webapp version](https://github.com/N7ghtm4r3/Pandoro-WebApp)
 
 ### Backend
 
-- [Backend service "out-of-the-box"](https://github.com/N7ghtm4r3/Pandoro/releases/tag/1.0.8)
+- [Backend service "out-of-the-box"](https://github.com/N7ghtm4r3/Pandoro/releases/tag/1.2.0)
 
 ## Usages
 
@@ -64,7 +64,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.tecknobit.pandorocore:pandorocore:1.0.8'
+  implementation 'com.tecknobit.pandorocore:pandorocore:1.2.0'
 }
 ```
 
@@ -77,7 +77,7 @@ repositories {
 }
 
 dependencies {
-  implementation("com.tecknobit.pandorocore:pandorocore:1.0.8")
+  implementation("com.tecknobit.pandorocore:pandorocore:1.2.0")
 }
 ```
 
